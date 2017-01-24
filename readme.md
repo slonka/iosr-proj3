@@ -17,3 +17,5 @@ spark-submit spark_csv_df.py
 - add more types to the schema
 - add more queries as pointed out in the presentation
 - add kafka support instead of files
+- save data to files / database - instead of outputting to console
+- figure out spark streaming scaling (as mentioned in presentation: solution should be easily scalable)
