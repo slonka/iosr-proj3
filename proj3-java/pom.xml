@@ -58,6 +58,16 @@
             <artifactId>spark-streaming-kafka-0-8_2.11</artifactId>
             <version>2.1.0</version>
         </dependency>
+        <dependency>
+            <groupId>org.apache.spark</groupId>
+            <artifactId>spark-sql_2.10</artifactId>
+            <version>2.1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.spark</groupId>
+            <artifactId>spark-sql-kafka-0-10_0.01</artifactId>
+            <version>2.1.0</version>
+        </dependency>
     </dependencies>
 
 </project>
